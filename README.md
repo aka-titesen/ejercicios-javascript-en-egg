@@ -1,1 +1,2 @@
-# ejercicios-javascript-en-egg
+## JavaScript
+Ejercicios sobre conceptos básicos del lenguaje
